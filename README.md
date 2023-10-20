@@ -5,3 +5,5 @@ hihi
 say
 sushi
 steak
+cola
+fries
