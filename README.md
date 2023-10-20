@@ -2,10 +2,3 @@
 
 bye
 
-
-see
-
-hi
-
-step1
-
