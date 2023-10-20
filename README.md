@@ -3,5 +3,7 @@
 bye
 hihi
 say
+sushi
+steak
 cola
 fries
