@@ -3,5 +3,5 @@
 bye
 hihi
 say
-haha
-hi
+sushi
+steak
