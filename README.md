@@ -4,3 +4,5 @@ bye
 yay
 sushi
 steak
+chips
+steak
