@@ -2,5 +2,5 @@
 hello
 bye
 yay
-haha
-nay
+sushi
+steak
