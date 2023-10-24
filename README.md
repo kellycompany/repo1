@@ -2,5 +2,7 @@
 hello
 bye
 yay
+sushi
+steak
 chips
 steak
